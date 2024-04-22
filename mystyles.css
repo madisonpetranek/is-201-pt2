@@ -1,0 +1,50 @@
+.top{
+    color: paleturquoise;
+}
+
+.colortext{
+    color: burlywood;
+}
+
+.colorlist{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: palevioletred
+}
+
+.colortitle{
+    color:palevioletred
+}
+
+.common{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header{
+    height: 200px;
+    background-color: beige;
+    color: white;
+    line-height: 25px;
+}
+
+.mainbody{
+    background-color: whitesmoke;
+    right: 5px;
+    left: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.footer{
+    height: 25px;
+    font-size: 20px;
+    padding-top: 15px;
+    background-color: beige;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
